@@ -1,4 +1,4 @@
-# Serve.js
+# Sync Configuration
 
 This script is designed to interact with the Contentstack Apps API to fetch and update installation details for a specific app. It performs the following tasks:
 
