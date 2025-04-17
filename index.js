@@ -4,8 +4,8 @@ const ORG_UID = "";
 const APP_UID = "629099e29efe3000190bf7b7";
 
 const INSTALLATION_DATA = {
-  "source_uid_1": ["target_uid_1", "target_uid_2"],
-  "source_uid_2": ["target_uid_3"]
+  "source_uid_1": ["target_installtion_uid_1", "target_installtion_uid_2"],
+  "source_uid_2": ["target_installtion_uid_3"]
 };
 
 // Fetch installation data for a given UID
